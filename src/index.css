@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.barMale {
+  background-color: blue;
+  width: 150px;
+  display: inline-block;
+}
+
+.barFemale {
+  background-color: orange;
+  width: 150px;
+  display: inline-block;
+}
+
+.barUnknown {
+  background-color: grey;
+  width: 150px;
+  display: inline-block;
+}
+
+.graphBox {
+  height: 200px;
+  border-top: black solid 1px;
+}
+
+.container {
+  margin: 10px 50px;
+}
